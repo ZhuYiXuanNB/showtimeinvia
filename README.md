@@ -1,0 +1,2 @@
+# showtimeinvia
+用于via浏览器自定义html5显示实时时间
